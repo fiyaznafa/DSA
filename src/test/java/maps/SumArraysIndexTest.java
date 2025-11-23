@@ -1,3 +1,5 @@
+package maps;
+
 import org.testng.annotations.Test;
 
 public class SumArraysIndexTest {
